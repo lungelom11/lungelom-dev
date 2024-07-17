@@ -3,8 +3,7 @@ export const ProjectList = [
     {
       img: "/ykte-feature-graphic.png",
       title: "Doctor Appointment Booking System (DABS)",
-      description:
-        "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
+      description: "The system effectively manages the doctors appointments in real-time, provides a user friendly interface for patients to book appointments.",
       tech_stack: ["React", "FastAPI","MongoDB" ,"Python", "Chakra UI", "Docker","AWS"],
       github_url: "https//github.com/lungelom11/dabs-fullstack",
       demo_url: "#",
