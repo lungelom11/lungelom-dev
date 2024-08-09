@@ -48,10 +48,6 @@ export const ProjectList = [
       name: "ReactJS",
     },
     {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-      name: "NextJs",
-    },
-    {
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
       name: "Typescript",
     },
@@ -60,16 +56,8 @@ export const ProjectList = [
       name: "Git",
     },
     {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-      name: "React Native",
-    },
-    {
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
       name: "NodeJS",
-    },
-    {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-      name: "Firebase",
     },
     {
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
@@ -82,10 +70,6 @@ export const ProjectList = [
     {
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
       name: "Flask",
-    },
-    {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-      name: "C",
     },
     {
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
